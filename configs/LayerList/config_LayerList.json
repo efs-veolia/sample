@@ -1,0 +1,298 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": false,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "nationalplanningapps_4303": {
+      "display": true
+    },
+    "nationalplanningapps_6626": {
+      "display": true
+    },
+    "GZTZoningEPSG2157_8795": {
+      "display": true
+    },
+    "GZTZoningEPSG2157_8795_0": {
+      "display": true
+    },
+    "GZTZoningEPSG2157_8795_1": {
+      "display": true
+    },
+    "GZTZoningEPSG2157_8795_2": {
+      "display": true
+    },
+    "GZTZoningEPSG2157_8795_3": {
+      "display": true
+    },
+    "Zoning_5746": {
+      "display": true
+    },
+    "Zoning_5746_0": {
+      "display": true
+    },
+    "Zoning_5746_1": {
+      "display": true
+    },
+    "Zoning_5746_2": {
+      "display": true
+    },
+    "Zoning_5746_3": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_0": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_1": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_2": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_3": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_4": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_5": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_6": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_7": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_8": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_9": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_10": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_11": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_12": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_13": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_14": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_15": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_16": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_17": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_18": {
+      "display": true
+    },
+    "NorthernIrelandDevelopmentPlans_9291_19": {
+      "display": true
+    },
+    "ExpiringPlans_8954": {
+      "display": true
+    },
+    "ExpiringPlans_8954_0": {
+      "display": true
+    },
+    "ExpiringPlans_8954_1": {
+      "display": true
+    },
+    "ExpiringPlans_8954_2": {
+      "display": true
+    },
+    "ExpiringPlans_8954_3": {
+      "display": true
+    },
+    "ExpiringPlans_8954_4": {
+      "display": true
+    },
+    "ExpiringPlans_8954_5": {
+      "display": true
+    },
+    "PlanningApplicationsSearch_9289": {
+      "display": true
+    },
+    "PlanningApplicationsSearch_9289_0": {
+      "display": true
+    },
+    "PlanAreas_9738": {
+      "display": true
+    },
+    "PlanAreas_9738_0": {
+      "display": true
+    },
+    "PlanAreas_9738_1": {
+      "display": true
+    },
+    "PlanAreas_9738_2": {
+      "display": true
+    },
+    "ResidentialDensity_1414": {
+      "display": true
+    },
+    "ResidentialDensity_1414_0": {
+      "display": true
+    },
+    "Phasing_8963": {
+      "display": true
+    },
+    "Phasing_8963_0": {
+      "display": true
+    },
+    "Phasing_8963_1": {
+      "display": true
+    },
+    "ResidentialLandAvailabilitySurvey2014_5599": {
+      "display": true
+    },
+    "ResidentialLandAvailabilitySurvey2014_5599_0": {
+      "display": true
+    },
+    "ResidentialLandAvailabilitySurvey2014_5599_1": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2016_2676": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2016_2676_0": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2015_1524": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2015_1524_0": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2014_5010": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2014_5010_0": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2013_406": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2013_406_0": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2012_4965": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2012_4965_0": {
+      "display": true
+    },
+    "UnfinishedHousingSurvey2012_4965_1": {
+      "display": true
+    },
+    "LocalPropertyTaxWaiverAreas_6718": {
+      "display": true
+    },
+    "LocalPropertyTaxWaiverAreas_6718_0": {
+      "display": true
+    },
+    "NIAH_8872": {
+      "display": true
+    },
+    "NIAH_8872_0": {
+      "display": true
+    },
+    "NationalMonumentsService_565": {
+      "display": true
+    },
+    "NationalMonumentsService_565_0": {
+      "display": true
+    },
+    "NationalMonumentsService_565_1": {
+      "display": true
+    },
+    "NationalMonumentsService_565_2": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630_0": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630_1": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630_2": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630_3": {
+      "display": true
+    },
+    "NPWSDesignatedAreas_2630_4": {
+      "display": true
+    },
+    "CensusPopulation2016_6730": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_0": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_1": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_2": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_3": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_4": {
+      "display": true
+    },
+    "CensusPopulation2016_6730_5": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_0": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_1": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_2": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_3": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_4": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_5": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_6": {
+      "display": true
+    },
+    "AdministrativeBoundaries_9872_7": {
+      "display": true
+    }
+  }
+}

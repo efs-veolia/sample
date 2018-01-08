@@ -1,0 +1,137 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "AdministrativeBoundaries_9872_2",
+      "url": "https://maps.housing.gov.ie/arcgis/rest/services/MyPlan/AdministrativeBoundaries/MapServer/2",
+      "name": "Provinces",
+      "placeholder": "Place or Address",
+      "searchFields": [
+        "Province"
+      ],
+      "displayField": "Province",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "AdministrativeBoundaries_9872_3",
+      "url": "https://maps.housing.gov.ie/arcgis/rest/services/MyPlan/AdministrativeBoundaries/MapServer/3",
+      "name": "Counties (NUTS IV)",
+      "placeholder": "Place or Address",
+      "searchFields": [
+        "COUNTYNAME"
+      ],
+      "displayField": "COUNTYNAME",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "AdministrativeBoundaries_9872_5",
+      "url": "https://maps.housing.gov.ie/arcgis/rest/services/MyPlan/AdministrativeBoundaries/MapServer/5",
+      "name": "Electoral Divisions (NUTS V)",
+      "placeholder": "Place or Address",
+      "searchFields": [
+        "ED_NAME"
+      ],
+      "displayField": "ED_NAME",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "AdministrativeBoundaries_9872_6",
+      "url": "https://maps.housing.gov.ie/arcgis/rest/services/MyPlan/AdministrativeBoundaries/MapServer/6",
+      "name": "Townlands",
+      "placeholder": "Place or Address",
+      "searchFields": [
+        "TLAND_NAME"
+      ],
+      "displayField": "TLAND_NAME",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "AdministrativeBoundaries_9872_7",
+      "url": "https://maps.housing.gov.ie/arcgis/rest/services/MyPlan/AdministrativeBoundaries/MapServer/7",
+      "name": "Towns",
+      "placeholder": "Place or Address",
+      "searchFields": [
+        "TOWN"
+      ],
+      "displayField": "TOWN",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "url": "https://tasks.housing.gov.ie/arcgis/rest/services/Locator/EircodeLocator/GeocodeServer",
+      "name": "Address and Eircode Search",
+      "singleLineFieldName": "SingleLine",
+      "placeholder": "Search Address or Eircode",
+      "countryCode": "",
+      "zoomScale": 15000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "searchInCurrentMapExtent": false,
+      "enableLocalSearch": false,
+      "localSearchMinScale": 300000,
+      "localSearchDistance": 50000,
+      "type": "locator"
+    },
+    {
+      "layerId": "nationalplanningapps_9329",
+      "url": "https://npad.housing.gov.ie/arcgis/rest/services/npad/nationalplanningapps/MapServer/0",
+      "name": "Planning Application Points Markers",
+      "placeholder": "Search Planning Application Point Markers",
+      "searchFields": [
+        "ApplicationNumber",
+        "DevelopmentAddress",
+        "DevelopmentPostcode"
+      ],
+      "displayField": "ApplicationNumber",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 20,
+      "maxResults": 20,
+      "type": "query"
+    },
+    {
+      "layerId": "nationalplanningapps_9183",
+      "url": "https://npad.housing.gov.ie/arcgis/rest/services/npad/nationalplanningapps/MapServer/1",
+      "name": "Planning Application Sites",
+      "placeholder": "Search Planning Application Sites",
+      "searchFields": [
+        "ApplicationNumber",
+        "DevelopmentAddress",
+        "DevelopmentPostcode"
+      ],
+      "displayField": "ApplicationNumber",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 20,
+      "maxResults": 20,
+      "type": "query"
+    }
+  ]
+}
